@@ -14,8 +14,8 @@ class HomeScreen extends StatelessWidget {
       backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 1,
-        backgroundColor: Colors.green,
-        foregroundColor: Colors.white,
+        backgroundColor: Colors.white,
+        foregroundColor: Colors.green,
         title: const Text(
           "오늘의 웹툰",
           style: TextStyle(
